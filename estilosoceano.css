@@ -1,0 +1,26 @@
+h1, h2 {
+    border-color: white;
+    border-style: solid;
+    border-bottom: 1px;
+}
+h1, h2, h3 {
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
+body {
+    background-color: black;
+    text-align: justify;
+    font-size: 18px;
+    color:white;
+}
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+p, ul, ol, table {
+    font-family: georgia;
+    font-size: 18px;
+    font-style: oblique;
+    color:white;
+}
